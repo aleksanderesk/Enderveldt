@@ -1,0 +1,51 @@
+------------------------------------------------------------------------------
+                               2 - Entering Brynn
+------------------------------------------------------------------------------
+
+As you climb the small hill to loot the last hobgoblin corpse, you recognize a
+demoralizing sight in the distance: smoke, rising from the hamlet of Brynn.
+Something clearly isn't right. You make your way back to the wagon and see Ardin
+carefully making his way down to the ground. What do you say to him? 
+
+{Ardin will request that the party investigate the town for him, and attempt to
+rescue his wife and child}
+
+You make your way across the waterlogged lowlands. The opaque flood rises up
+only to your ankles, but the few crooked trees scattered throughout the
+landscape seem to have been almost swallowed by the mire, their trunks
+somewhere beneath the surface, leaving only the tops of their sickly branches
+reaching up to the skys like gnarled, broken fingers. 
+
+Though the fires in the village seem to have been extinguished, the smell of
+charred wood and flesh becomes damply apparent as you near the perimeter. From
+the dilapidated view of the buildings as you come close, it is suspect whether
+Brynn has ever seen better days. 
+
+Building 1:
+    Though at one point a simple farmhouse, the two story building you now walk
+    into can only be referred to as a shamble. The furniture lies broken to
+    pieces, strewn about this single ground floor room, which initially served
+    as both kitchen and den. 
+    {Listen, DC 13} You hear steps on the floor above, short sentences in
+    goblinoid.
+    The simple straw stuffed mattress in the southeast corner of the room is
+    caked from end to end with the blood of its occupant, which has apparently
+    flowed to such degree that it even dripped from the sideboards onto the
+    floor. The corpse lies mutilated, the bed's now crimson stained sheet sticks
+    in tatters to the woman's skin, with an enormous gash in the middle,
+    revealing a completely disemboweled chest. The right arm hangs loosely at
+    the side of the bed, connected only by a tendon, the organs of the woman are
+    splattered on the window behind the headboard, and the wall to the right of
+    the bed. Beneath the layer of visceral on the face, you see an expression of
+    shear terror.
+
+Building 2:
+    This building must have been the home and workshop of the village's smith.
+    Boxes of tools have been dumped across the floor, the blades of various
+    farming implements jut out from the walls, embedded deep in the wood.
+    As you cross the threashold into the bedroom, you notice immediately motley
+    collection of metal objects stabbed into the body of the smith. Some without
+    their hafts or handles, scissor blades, spades, sickles, and nails pin the
+    body to its bed. 
+    {Listen, DC 13} Through the door to the back of the house, you hear the
+    clanging of metal and arguments in goblinoid.

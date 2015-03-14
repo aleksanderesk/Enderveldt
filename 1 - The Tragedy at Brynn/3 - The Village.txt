@@ -1,0 +1,129 @@
+------------------------------------------------------------------------------
+                                3 - The Village
+------------------------------------------------------------------------------
+
+Building 3:
+    Another simple farmhouse, this one with only one room. Its similar state of
+    disarray leaves it otherwise unremarkable save the trail of blood leading up
+    to the back door. 
+    {Spot, DC 15} Rising lifelessly from the floodwaters, is a single whitened,
+    clammy arm, fingertips extended, slightly curled inwards, flecks of mud on
+    the skin and fingernails. Presumably, the body is still attached, immersed
+    in the marsh of a this sunken vegetable garden. 
+    {Spot, DC 13} A pair of hobgoblins can be seen, having exited through the
+    gardens back gate, walking towards a lonely house at the the south end of
+    the village. 
+
+Building 4:
+    You notice that the skies have grown darker since you entered the village,
+    to a bleak brownlish grey. The rain continues to fall as a drizzle, a cold,
+    ebbing mist that still manages crawl underneath your clothes.
+    This house sits at the edge of the village, tilted slightly backwards, as
+    though the south foundation was sinking into the clay. 
+    The single room of this house is a bizaare and unsettling sight. Not only is
+    the whole floor tilted at a vaguely dizzying downward angle, but the
+    interior seems as though a whirlwind of blunted shears had hurled itself
+    against the walls and furniture. Most noticable however is the enormous
+    square hold in the center of the room. One may suspect that the sundered
+    boards and splinters littered by its edges are what remains of the trapdoor
+    to a simple root cellar. As you peer down the roughly 6 foot deep hole, you
+    see its walls lined with bottled and pickled foodstuffs, though many now lay
+    shattered on its hardened dirt floor.
+    {Spot, DC 14} You notice blood in the mix of broken glass, viscous liquids,
+    and splinters, but slightly sunken somewhere in the mess is a small golden
+    object. 
+    You climb down to collect the trinket. Dangling from a golden chain is
+    something that appears to be a locket.
+    Inside the locket is a daguerreotype photo of a family of three.
+    As you begin to climb back out of the hole, you look up and notice something
+    peculiar. All along the under-edge of the boards making the ceiling of the
+    root cellar are viscious, deep, bloodied scratches.
+    {Spot, DC 20} Briefly, you turn to look out the house's east facing window.
+    You notice that it appears to be nearly evening, although it seems to you as
+    if it was only late morning but a few hours ago. Finding it strange, but
+    certainly not warranting serious alarm, you turn your head back to the room,
+    when just out the corner of your eye from the other side of the window
+    sprints a shadowy figure with unnatural speed. You hear the wind outside
+    briefly pick up with a menacing {sigh}.
+
+    The barley of this back field has whithered and sunken into the floodwater.
+    In the center stands a lone scarecrow, its face made from a stuffed burlap
+    sack. While the fence posts at the perimeter seem to have loosened and
+    settled deeper into the dirt, the scarecrow stands looming with a
+    conspicuous defiance, appearing all the more tall in comparison to its
+    stunted surroundings. Regardless of the manner you make your way through the
+    field, you feel somehow always directly in its line of sight. 
+    {Spot, DC 14} The open barn smells of guts and squalor. Two oxen appear to have
+    been fully gutted, their flesh and organs lay in putrifying piles in the mud,
+    but perhaps most nauseating is the pack of enormous rats gnawing their way
+    through the bodies of the livestock. 
+
+Building 5:
+    This single room farmhouse continues the running motif of desctruction. 
+    {Listen, DC 15} From the doorway on the east wall of the house you hear
+    indistinct voices. 
+    A wooden stairwell opens to a basement.
+    {Search, DC 12} One plank of the stairwell gives way, {Reflex save, DC 15,
+    fail 1d6 points of damage}.
+    {Search, DC 19} The shelves in this small room conceal the truth that the
+    back wall is in fact a door that can swing outwardly. Inside is a dirty and
+    pungent assemblage of strange ingredients, powders, herbs, and liquids. The
+    emaceated corpse of a black cat hangs upside down, suspended by its feet
+    from a nail in the wall. Its stomach has been sliced open, dried blood coats
+    its fur.
+        3 potions: 
+            A small bulb-bottomed flask with a greyish, cloudy liquid (Mage Armour)
+            A thin vial, with bluish-violet liquid (Cat's Grace)
+            A thin vial, with a greenish liquid with dark strands (Liquid Id
+                Moss, DC 14, Initial 1d4 Int, Secondary 2d6 Int)
+            A circle bottomed flask with a curving top filled with a purple
+                liquid (Lesser Restoration)
+
+Building 6: 
+    You approach now the largest building in the village. Where all the other
+    roofs are made of thatch, this one has a fine timber roof. 
+    Its interior is quite dark. Heavy, dark felt curtains are pulled over the
+    windows. The living room has several shelves, but the interior seems largely
+    looted. 
+    {Search, DC 12} A feather stuffed armchair is is set in front of the fire
+    place, its purple fabric is gashed and torn. Tucked between the armrest and
+    cushion however, is a newspaper. The headline reads:
+    ``DECIMATION AT ISHIM - The Brost 5th and 6th Infantries were sent to ward
+    off Dar'kvaki troops north of the Ishim-Skevo following reports of amassing
+    troops near the border. Brost battalions encountered three Dar'kvaki
+    battalions and one Norishtrelko Svorsevaar Augmentary. Without comparable
+    firepower and against overwhelming numbers, the Brost 5th Infantry was
+    entirely destroyed, and the 6th Infantry suffered heavy losses.``
+    {Listen, DC 13} You can hear indistinct voices coming from the direction of
+    the kitchen.
+    The staircase leads up to a landing with two doors.
+    [Straight] Watercloset
+    [Right] This room is similarly dark. A large bed against the east wall with
+    large dark purple shades dominates the room.
+    {Spot, DC 13} Someone appears to be in the bed.
+    The body lies on its side away from you. As you roll it onto its back to
+    inspect the corpse, the other side of its face is revealed to you. The left
+    side of his neck has an enormous hole bitten into it, and his lips have been
+    removed. His once fine night gown is completely bloodied.
+    The door to the study hangs by a single hinge. Papers are scattered all
+    across the floor, and the drawers have been pulled out and emptied. Pages
+    tracking finances, and harvests, as well as deeds that seem to be written
+    for several houses in the village. 
+    {Search, DC 12} You find packed towards the back of one desk drawer a
+    leather bound journal. Its first page has written, Louis Montque, in
+    swooping, cursive script. The last few entries are particularly notable:
+    ``September 12 - That bitch Ellaina grows increasingly recalcitrant. Now
+    that the `village's hero` Ardin is rotting in some frozen Ishim waste, she
+    spends most of her time with her bastard boy Peter crying on her knees in
+    front of the temple altar. I'd give the slut something to cry about were she
+    on her knees in front of me.``
+    ``September 20 - I told her she'd regret the day she refused me, and now she
+    certainly is. Five stiches in my face are a small price to pay for her house
+    arrest. My neighbors weren't so difficult to convince, especially
+    following the threat of losing their homes. And that cowardly vegetable
+    farmer, Ido, is especially suggestable. How she fought when Ido forced her
+    into that cellar. I'll relish like a sweet wine the look of horror on her
+    face as I shut the door.``
+    {Spot, DC 15} From the east facing window, you see a large group of goblins,
+    hobgoblins, and a particularly large bugbear enter the Inn at the north end
+    of the village.

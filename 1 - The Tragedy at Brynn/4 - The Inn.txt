@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+                                  4 - The Inn
+------------------------------------------------------------------------------
+
+Building 7:
+    An early night has come to the village as you approach the Inn. The lights of
+    its upper floor are lit, and indistinct voices in goblinoid can be heard as well
+    as the grunts of a particularly large and likely somewhat inebriated bugbear. 
+    {Spot, vs goblin's hide} A goblin cowers underneath one of the inn's beds. 
+    [Speaks only goblinoid] Will explain that the goblins were wandering west
+    from down the slopes of Weßell. Everything here has been, strange. Some of
+    us pleaded with Tusk to leave here, some of us, saw.. something.. standing,
+    in the water, far in the distance, dark, dirty.
+
+    The wind begins to howl outside the inn, accompanied by violent thunder
+    claps. The rafters shudder and shake, and the eyes of the goblin prisoner
+    dart back and forth with frenzied anxiety. Without stars or moon, the
+    darkness outside is totalizing. Only the brief lightning flashes reveal any
+    part of the village. 
+    {Spot, DC 13} Underneath the overhang of a southerly house, stands a lonely
+    figure, wearing a sullen, stained, and tattered dress. Its face is obscurred
+    by mud dirtied hair, caked with soggy leaves, and punctered with twigs. Its
+    arms hang limply at its side and its hands end in gruesome, cracked, and 
+    bloodied claws. As quickly as you saw it, it disappears in the enveloping
+    darkness. 
