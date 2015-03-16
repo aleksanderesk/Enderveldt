@@ -1,6 +1,4 @@
--------------------------------------------------------------------------------
-                                 1 - The Wagon
--------------------------------------------------------------------------------
+# 1 - The Wagon
 
 You cannot remember when it had last stopped raining. In sheets so thick it
 poors, barely 10 feet beyond the edge of the road is visible from between the
@@ -35,29 +33,33 @@ fading red scars visible at the top and bottom edges of the cloth.
 
 Ardin Willowbraid
     Human Fighter, Lv 2
-    ``The Brost 5th and 6th infantries were sent from Pröskur to secure the
+    ```The Brost 5th and 6th infantries were sent from Pröskur to secure the
     border with Dar'kva to the north. We marched through the Ishim-Shevo the to
     plains of Ishim where we met 3 Dar'kva battalions accompanied by a
     Norishtrelko Augmentary. Myself and 3 others in my company were taken
     unaware by the searing light of an Augmentary Svorsevaar. I lost my sight
-    immediately. The skirmish was costly for both sides.``
-    He speaks quietly, ``Brost and Dar'kva called the armistice shortly after.``
+    immediately. The skirmish was costly for both sides.```
+    He speaks quietly, 
+    ```Brost and Dar'kva called the armistice shortly after.```
 
-    Ardin takes a deep breath, a light hope returns to his voice, ``But these wars
-    are over for me. I'm returning now to my hometown, the small village of Brynn
-    just off the road to Proskur, settled in the foothills of the Weßell mountains.
-    I'll return there to my wife, {shows locket}, Ellaina,`` He opens and holds
-    out to you the small gold locket, revealing a tiny daguerreotype photo of a
+    Ardin takes a deep breath, a light hope returns to his voice, 
+    ```But these wars are over for me. I'm returning now to my hometown, the small 
+    village of Brynn just off the road to Proskur, settled in the foothills of the 
+    Weßell mountains. I'll return there to my wife,```
+    Ardin shows a small locket,
+    ```Ellaina...``` 
+    He opens and holds it out to you, revealing a tiny daguerreotype photo of a
     charming new family. A handsome young man with dark hair stands behind a
     fair woman of surpassing beauty, with light flaxen hair that flows like
     long ocean waves down the length of her back, seated on a simple wooden
-    chair with her left hand risen to meet his resting on her shoulder. ``My
-    darling wife,`` he says fondly. ``Even tough I can no longer see her
-    picture, her face is still clear in my mind In her
-    other arm, she holds a small child, a wide-eyed, curly-haired bundle. He points
-    to his son in the photo, ``Peter turned one two month ago.`` Ardin grins,
-    then looks out the wagon, ``I'll be disembarking soon, the path to Brynn
-    should be near...``
+    chair with her left hand risen to meet his resting on her shoulder. 
+    ```My darling wife. Even tough I can no longer see her picture, her face is still 
+    clear in my mind.``` 
+    In her other arm, she holds a small child, a wide-eyed, curly-haired bundle. He 
+    points to his son in the photo,
+    ```Peter turned one two month ago.```
+    Ardin grins, then looks out the wagon, 
+    ```I'll be disembarking soon, the path to Brynn should be near...```
 
 With a violent lurch and the wounded groan of its horse, the wagon comes to a
 sudden halt. The other riders of the wagon bury their heads in their hands or
